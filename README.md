@@ -9,7 +9,8 @@ To use RAMDumpExplorer, follow these simple steps:
 1. Generate a RAM dump file using a third-party app.
 2. Download it in the Releases
 4. Open a command prompt or terminal and navigate to the folder containing the RAMDumpExplorer executable.
-5. Run the program with the path to the RAM dump file as the only argument:
+5. Run the program with the path to the RAM dump file as the only argument in CMD:
+
     ```
     RAMDumpExplorer.exe path/to/ram.raw
     ```
